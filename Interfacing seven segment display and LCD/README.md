@@ -5,6 +5,8 @@
 👉 platformio project file
 👉 schmetric
 👉 proteus simulation
+👉 hex file
+👉 elf file
 
 # lab2 Interfacing seven segment display and LCD.
 • Learn working principle to interface seven segment display & Liquid Crystal Display
