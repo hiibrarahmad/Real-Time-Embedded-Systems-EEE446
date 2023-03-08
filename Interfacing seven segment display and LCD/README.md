@@ -4,7 +4,14 @@
 • Write code to program above three modules.
 • Simulate and hardware demo of above three modules.
 ## task1
-![Test Image](https://github.com/hiibrarahmad/Real-Time-Embedded-Systems-EEE446/blob/main/Interfacing%20seven%20segment%20display%20and%20LCD/7%20segment/7%20Segment%20count%20from%200%20to%209/diagram/7%20segment%20by%20ibrar%20ahmad.png)
+7 Segment count from 0 to 9
+
+![](https://github.com/hiibrarahmad/Real-Time-Embedded-Systems-EEE446/blob/main/Interfacing%20seven%20segment%20display%20and%20LCD/7%20segment/7%20Segment%20count%20from%200%20to%209/diagram/7%20segment%20by%20ibrar%20ahmad.png)
 
 # [simulation+code](https://www.tinkercad.com/things/6asQ8vgcC2g)
 
+## task2 
+7 Segment count from 000 to 999
+![](https://github.com/hiibrarahmad/Real-Time-Embedded-Systems-EEE446/blob/main/Interfacing%20seven%20segment%20display%20and%20LCD/7%20segment/7%20Segment%20count%20from%20000%20to%20999/diagram/arduino%20uno%20count%20000%20to%20999%20by%20ibrar%20ahmad.png)
+
+#[simulation+code](https://www.tinkercad.com/things/aACBXjpNtLh)
